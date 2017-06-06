@@ -1,0 +1,17 @@
+{
+  "name": "git-webhook-listener",
+  "version": "0.1.1",
+  "description": "Git webhook listener ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "morgan": "^1.8.0",
+    "buffer-equal-constant-time": "^1.0.1"
+  }
+}
